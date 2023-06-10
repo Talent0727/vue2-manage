@@ -18,7 +18,6 @@ __注：项目预览地址和接口需要使用https访问哦！__
 
 >  传送门：[前端项目地址](https://github.com/bailicangdu/vue2-elm)  、 [后台系统地址](https://github.com/bailicangdu/node-elm)  、 [原生APP项目地址](https://github.com/bailicangdu/RN-elm)
 
-
 ## 技术栈
 
 vue2 + vuex + vue-router + webpack + ES6/7 + less + element-ui
